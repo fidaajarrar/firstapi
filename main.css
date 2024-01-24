@@ -1,0 +1,33 @@
+.products{
+ display:flex;
+ flex-direction:column;
+ align-items:center;
+ background:#F5EBD7;
+}
+
+
+.title{
+
+    background:#DAF7A6;
+    padding:15px;
+    border-radius:10px;
+    border-bottom:3px solid #A4A4A4;
+    
+}
+.img{
+
+    background:#EECCFC;
+    padding:30px;
+    border-radius:10px;
+}
+
+
+.price{
+    background:#CDF3FE;
+    padding:10px;
+    border-radius:10px;
+    border-bottom:3px solid #A4A4A4;
+    margin-bottom:80px;
+
+}
+
